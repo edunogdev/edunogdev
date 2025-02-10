@@ -28,9 +28,9 @@ Aqui estão alguns dos projetos que eu gosto de compartilhar:
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?edunogdev&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/apiedunogdev&show_icons=true&theme=radical)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?edunogdev&layout=compact&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/edunogdev&layout=compact&theme=radical)
 
 <!--## Vamos Conectar!
 
