@@ -43,5 +43,3 @@ Aqui estão alguns dos projetos que eu gosto de compartilhar:
 Estou sempre aberto(a) a colaborações e novos projetos. Se você tem uma ideia ou quer trabalhar juntos, sinta-se à vontade para entrar em contato!-->
 
 ---
-
-⭐️ Feito com ❤️ por [Seu Nome](link para o seu perfil no GitHub)
