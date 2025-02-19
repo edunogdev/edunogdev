@@ -14,7 +14,7 @@ Sou programadora apaixonada por códigos. Adoro aprender coisas novas e comparti
 
 Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 
-- **Linguagens de Programação:** JavaScript, Html, Css...
+- **Linguagens de Programação:** JavaScript, Html, Css.
 - **Ferramentas de Desenvolvimento:** Git, Figma e VS Code.
 - **Outras:** WordPress
 
