@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou programadora apaixonado(a) por códigos. Adoro aprender coisas novas e compartilhar conhecimento com a comunidade.
+Sou programadora apaixonada por códigos. Adoro aprender coisas novas e compartilhar conhecimento com a comunidade.
 
 - 💼 Atualmente estou visando a Carreira de Front-end.
 - 📚 Finalizando o último periódo da Faculdade em Ciências da Computação.
